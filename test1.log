@@ -1,0 +1,76 @@
+Selected strategy: SHORTEST_QUEUE
+Current time: 0
+Waiting clients: (0,2,2); (1,5,2); (2,23,2); (3,28,2); 
+Current time: 1
+Waiting clients: (0,2,2); (1,5,2); (2,23,2); (3,28,2); 
+Current time: 2
+Waiting clients: (1,5,2); (2,23,2); (3,28,2); 
+Server 0: TaskID = 0, service time: 2
+Current time: 3
+Waiting clients: (1,5,2); (2,23,2); (3,28,2); 
+Server 0: TaskID = 0, service time: 1
+Current time: 4
+Waiting clients: (1,5,2); (2,23,2); (3,28,2); 
+Current time: 5
+Waiting clients: (2,23,2); (3,28,2); 
+Server 0: TaskID = 1, service time: 2
+Current time: 6
+Waiting clients: (2,23,2); (3,28,2); 
+Server 0: TaskID = 1, service time: 1
+Current time: 7
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 8
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 9
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 10
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 11
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 12
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 13
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 14
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 15
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 16
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 17
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 18
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 19
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 20
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 21
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 22
+Waiting clients: (2,23,2); (3,28,2); 
+Current time: 23
+Waiting clients: (3,28,2); 
+Server 0: TaskID = 2, service time: 2
+Current time: 24
+Waiting clients: (3,28,2); 
+Server 0: TaskID = 2, service time: 1
+Current time: 25
+Waiting clients: (3,28,2); 
+Current time: 26
+Waiting clients: (3,28,2); 
+Current time: 27
+Waiting clients: (3,28,2); 
+Current time: 28
+Waiting clients: 
+Server 0: TaskID = 3, service time: 2
+Current time: 29
+Waiting clients: 
+Server 0: TaskID = 3, service time: 1
+Current time: 30
+Waiting clients: 
+Current time: 31
+Waiting clients: 
+Average waiting time: 3.0
+Average service time: 2.0
+Peak second: 4
