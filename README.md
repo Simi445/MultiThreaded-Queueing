@@ -17,28 +17,32 @@ There are 2 main scheduling policies:
 - Customizable simulation parameters (e.g., number of servers, clients, processing time limits).
 
 ## **Project Structure**
+It is divided in 3 main packages:
 ```
-├── BusinessLogic
-│   ├── ConcreteStrategyQueue.java
-│   ├── ConcreteStrategyTime.java
-│   ├── Scheduler.java
-│   ├── SelectionPolicy.java
-│   ├── SimCommImplement.java
-│   ├── SimulationFrCommunication.java
-│   ├── SimulationManager.java
-│   ├── Strategy.java
-│   ├── InterfaceIntermediary.java
-│   ├── IntermediaryImplement.java
-│
-├── Model
-│   ├── Server.java
-│   ├── Task.java
-│
-├── GUI
-│   ├── SimulationFrame.java
-│   ├── PopUp.java
-│
-└── README.md
+      ___________
+     /          /|
+    / Business / |
+   /__________/  |
+   |         |  |
+   | Logic   | /
+   |_________|/
+
+      ___________
+     /         /|
+    /  Model  / |
+   /_________/  |
+   |        |  |
+   |        | /
+   |________|/
+
+      ___________
+     /        /|
+    /   GUI  / |
+   /_______ /  |
+   |      |  |
+   |      | /
+   |______|/
+
 ```
 
 ## **Installation and Usage**
