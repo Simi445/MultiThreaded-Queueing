@@ -66,3 +66,17 @@ You can modify parameters in `SimulationManager.java` to control:
 - `timeLimit`: Defines the simulation duration.
 - `minProcessingTime` & `maxProcessingTime`: Control task duration.
 - `strategy`: Select between `SHORTEST_QUEUE` and `SHORTEST_TIME`.
+
+## **Showcase**
+### The Settings configuration
+A demonstration of the parameters that can be modified:
+
+![Settings](./showcase/Settings.gif)
+
+---
+
+### The Walktrough of the Application
+An incremental showcase on how the queuing works.
+The information is organised in tuples, each having the following format: *(id,join_time,process_time)*
+
+![Walktrough](./showcase/Walktrough.gif)
