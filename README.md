@@ -48,7 +48,7 @@ It is divided in 3 main packages:
 ## **Installation and Usage**
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Simi445/MultiThreaded-Queueing.git
    ```
 2. Open the project in an IDE like IntelliJ IDEA or Eclipse.
 3. Compile and run `SimulationManager.java` to start the simulation.
